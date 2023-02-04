@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TopScorer</string>
+    <string name="score_template">%d : %d</string>
+</resources>
